@@ -16,7 +16,8 @@ class Console {
             console.clear();
             process.exit();
         });
-
+        
+        this.startLooping();
     }
 
     startLooping() {
