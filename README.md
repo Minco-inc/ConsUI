@@ -4,7 +4,7 @@ Node.js SysOut UI!
 ## Installation
 You can easily install ConsUI by executing this command at your console:
 ```bash
-npm i consui
+npm i consui chalk
 ```
 
 ## Usage

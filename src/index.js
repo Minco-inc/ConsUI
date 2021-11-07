@@ -1,2 +1,2 @@
 exports.Console = require("./Console.js");
-exports.Text = requirr("./Text.js");
+exports.Text = require("./Text.js");
