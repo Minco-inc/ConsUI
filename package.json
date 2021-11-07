@@ -1,0 +1,33 @@
+{
+  "name": "consui",
+  "version": "1.0.0",
+  "description": "Console GUI!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/Test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minco-inc/ConsUI.git"
+  },
+  "keywords": [
+    "consui",
+    "cons",
+    "ui",
+    "console",
+    "ui",
+    "std",
+    "stdout",
+    "out",
+    "process"
+  ],
+  "author": "Minco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Minco-inc/ConsUI/issues"
+  },
+  "homepage": "https://github.com/Minco-inc/ConsUI#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
