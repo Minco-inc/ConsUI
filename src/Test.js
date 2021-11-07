@@ -26,6 +26,7 @@ class Main {
         ];
 
         co.addLoop(this.loop);
+        co.startLooping();
     }
 
     st(txt, clr) {

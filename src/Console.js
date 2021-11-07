@@ -17,6 +17,9 @@ class Console {
             process.exit();
         });
 
+    }
+
+    startLooping() {
         setInterval(this.loopMs, 0.6);
         setInterval(() => this.render(stdout), 50);
     }
